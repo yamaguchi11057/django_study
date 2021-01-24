@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.extraPaths": [
+        "I:\\Document\\Python\\projects\\Tsuyoshi_app\\venv\\lib\\python3.8\\site-packages"
+    ],
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+
+}
